@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "UMParallaxView"
-  s.version      = "0.1.0"
+  s.version      = "0.1.1"
   s.summary      = "A Swift View Parallax header for UITableView, UIScrollView"
 
   s.homepage     = "https://github.com/ramonvic/UMParallaxView"
@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '8.0'
 
-  s.source       = { :git => "https://github.com/ramonvic/UMTableView.git", :tag => "0.1.0" }
+  s.source       = { :git => "https://github.com/ramonvic/UMParallaxView.git", :tag => "0.1.1" }
 
   s.source_files  = "UMParallaxView/**/*.swift"
 
